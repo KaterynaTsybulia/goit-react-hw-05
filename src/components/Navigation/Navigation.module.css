@@ -1,0 +1,19 @@
+.nav {
+  display: flex;
+  gap: 30px;
+  border-bottom: 2px solid rgb(206, 206, 206);
+  font-size: 18px;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(66 66 73);
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.active {
+  color: rgb(210, 23, 86);
+}
